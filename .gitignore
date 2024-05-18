@@ -60,4 +60,4 @@ kotlin-ide/
 .kotlin/
 .teamcity/
 Java.gitignore
-*.class
+.class
