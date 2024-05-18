@@ -1,11 +1,11 @@
 package com.shahin.androidflow;
 
+import android.databinding.DataBinderMapper;
+import android.databinding.DataBindingComponent;
+import android.databinding.ViewDataBinding;
 import android.util.SparseArray;
 import android.util.SparseIntArray;
 import android.view.View;
-import androidx.databinding.DataBinderMapper;
-import androidx.databinding.DataBindingComponent;
-import androidx.databinding.ViewDataBinding;
 import java.lang.Integer;
 import java.lang.Object;
 import java.lang.Override;
@@ -64,8 +64,7 @@ public class DataBinderMapperImpl extends DataBinderMapper {
 
   @Override
   public List<DataBinderMapper> collectDependencies() {
-    ArrayList<DataBinderMapper> result = new ArrayList<DataBinderMapper>(1);
-    result.add(new androidx.databinding.library.baseAdapters.DataBinderMapperImpl());
+    ArrayList<DataBinderMapper> result = new ArrayList<DataBinderMapper>(0);
     return result;
   }
 

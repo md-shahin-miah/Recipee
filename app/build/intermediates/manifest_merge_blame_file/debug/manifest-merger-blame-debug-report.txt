@@ -48,131 +48,132 @@
 29-->C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:14:9-41
 30        android:supportsRtl="true"
 30-->C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:15:9-35
-31        android:theme="@style/AppTheme" >
-31-->C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:16:9-40
-32        <activity
-32-->C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:18:9-20:40
-33            android:name="com.shahin.androidflow.activites.DetailsActivity"
-33-->C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:19:13-54
-34            android:exported="false" />
-34-->C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:20:13-37
-35        <activity
-35-->C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:21:9-23:40
-36            android:name="com.shahin.androidflow.activites.MainActivity"
-36-->C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:22:13-51
-37            android:exported="false" />
-37-->C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:23:13-37
-38        <activity
-38-->C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:24:9-26:40
-39            android:name="com.shahin.androidflow.activites.FavoriteActivity"
-39-->C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:25:13-55
-40            android:exported="false" />
-40-->C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:26:13-37
-41        <activity
-41-->C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:27:9-35:20
-42            android:name="com.shahin.androidflow.activites.HomePage"
-42-->C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:28:13-47
-43            android:exported="true" >
-43-->C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:29:13-36
-44            <intent-filter>
-44-->C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:30:13-34:29
-45                <action android:name="android.intent.action.MAIN" />
-45-->C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:31:17-69
-45-->C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:31:25-66
-46
-47                <category android:name="android.intent.category.LAUNCHER" />
-47-->C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:33:17-77
-47-->C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:33:27-74
-48            </intent-filter>
-49        </activity>
-50
-51        <service
-51-->[androidx.room:room-runtime:2.6.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\e3319046d61cffe0cc4c6e09ab5fb798\transformed\room-runtime-2.6.1\AndroidManifest.xml:24:9-28:63
-52            android:name="androidx.room.MultiInstanceInvalidationService"
-52-->[androidx.room:room-runtime:2.6.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\e3319046d61cffe0cc4c6e09ab5fb798\transformed\room-runtime-2.6.1\AndroidManifest.xml:25:13-74
-53            android:directBootAware="true"
-53-->[androidx.room:room-runtime:2.6.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\e3319046d61cffe0cc4c6e09ab5fb798\transformed\room-runtime-2.6.1\AndroidManifest.xml:26:13-43
-54            android:exported="false" />
-54-->[androidx.room:room-runtime:2.6.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\e3319046d61cffe0cc4c6e09ab5fb798\transformed\room-runtime-2.6.1\AndroidManifest.xml:27:13-37
-55
-56        <provider
-56-->[androidx.emoji2:emoji2:1.2.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\851846cdc7e26e9a814280cdb450a71a\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
-57            android:name="androidx.startup.InitializationProvider"
-57-->[androidx.emoji2:emoji2:1.2.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\851846cdc7e26e9a814280cdb450a71a\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
-58            android:authorities="com.shahin.androidflow.androidx-startup"
-58-->[androidx.emoji2:emoji2:1.2.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\851846cdc7e26e9a814280cdb450a71a\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
-59            android:exported="false" >
-59-->[androidx.emoji2:emoji2:1.2.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\851846cdc7e26e9a814280cdb450a71a\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
-60            <meta-data
-60-->[androidx.emoji2:emoji2:1.2.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\851846cdc7e26e9a814280cdb450a71a\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
-61                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-61-->[androidx.emoji2:emoji2:1.2.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\851846cdc7e26e9a814280cdb450a71a\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
-62                android:value="androidx.startup" />
-62-->[androidx.emoji2:emoji2:1.2.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\851846cdc7e26e9a814280cdb450a71a\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
-63            <meta-data
-63-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\58bdb047f15d280f08722f29ec734615\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
-64                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-64-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\58bdb047f15d280f08722f29ec734615\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
-65                android:value="androidx.startup" />
-65-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\58bdb047f15d280f08722f29ec734615\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
-66            <meta-data
-66-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
-67                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
-67-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
-68                android:value="androidx.startup" />
-68-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
-69        </provider>
-70
-71        <uses-library
-71-->[androidx.window:window:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\6d3311c50c6cd820a9a07fb5bbaefe1e\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
-72            android:name="androidx.window.extensions"
-72-->[androidx.window:window:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\6d3311c50c6cd820a9a07fb5bbaefe1e\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
-73            android:required="false" />
-73-->[androidx.window:window:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\6d3311c50c6cd820a9a07fb5bbaefe1e\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
-74        <uses-library
-74-->[androidx.window:window:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\6d3311c50c6cd820a9a07fb5bbaefe1e\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
-75            android:name="androidx.window.sidecar"
-75-->[androidx.window:window:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\6d3311c50c6cd820a9a07fb5bbaefe1e\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
-76            android:required="false" />
-76-->[androidx.window:window:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\6d3311c50c6cd820a9a07fb5bbaefe1e\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
-77
-78        <receiver
-78-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
-79            android:name="androidx.profileinstaller.ProfileInstallReceiver"
-79-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
-80            android:directBootAware="false"
-80-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
-81            android:enabled="true"
-81-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
-82            android:exported="true"
-82-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
-83            android:permission="android.permission.DUMP" >
-83-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
-84            <intent-filter>
-84-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
-85                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
-85-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
-85-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
-86            </intent-filter>
-87            <intent-filter>
-87-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
-88                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
-88-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
-88-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
-89            </intent-filter>
-90            <intent-filter>
-90-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
-91                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
-91-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
-91-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
-92            </intent-filter>
-93            <intent-filter>
-93-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
-94                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
-94-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
-94-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
-95            </intent-filter>
-96        </receiver>
-97    </application>
-98
-99</manifest>
+31        android:testOnly="true"
+32        android:theme="@style/AppTheme" >
+32-->C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:16:9-40
+33        <activity
+33-->C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:18:9-20:40
+34            android:name="com.shahin.androidflow.activites.DetailsActivity"
+34-->C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:19:13-54
+35            android:exported="false" />
+35-->C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:20:13-37
+36        <activity
+36-->C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:21:9-23:40
+37            android:name="com.shahin.androidflow.activites.MainActivity"
+37-->C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:22:13-51
+38            android:exported="false" />
+38-->C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:23:13-37
+39        <activity
+39-->C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:24:9-26:40
+40            android:name="com.shahin.androidflow.activites.FavoriteActivity"
+40-->C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:25:13-55
+41            android:exported="false" />
+41-->C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:26:13-37
+42        <activity
+42-->C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:27:9-35:20
+43            android:name="com.shahin.androidflow.activites.HomePage"
+43-->C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:28:13-47
+44            android:exported="true" >
+44-->C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:29:13-36
+45            <intent-filter>
+45-->C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:30:13-34:29
+46                <action android:name="android.intent.action.MAIN" />
+46-->C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:31:17-69
+46-->C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:31:25-66
+47
+48                <category android:name="android.intent.category.LAUNCHER" />
+48-->C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:33:17-77
+48-->C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:33:27-74
+49            </intent-filter>
+50        </activity>
+51
+52        <service
+52-->[androidx.room:room-runtime:2.6.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\e3319046d61cffe0cc4c6e09ab5fb798\transformed\room-runtime-2.6.1\AndroidManifest.xml:24:9-28:63
+53            android:name="androidx.room.MultiInstanceInvalidationService"
+53-->[androidx.room:room-runtime:2.6.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\e3319046d61cffe0cc4c6e09ab5fb798\transformed\room-runtime-2.6.1\AndroidManifest.xml:25:13-74
+54            android:directBootAware="true"
+54-->[androidx.room:room-runtime:2.6.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\e3319046d61cffe0cc4c6e09ab5fb798\transformed\room-runtime-2.6.1\AndroidManifest.xml:26:13-43
+55            android:exported="false" />
+55-->[androidx.room:room-runtime:2.6.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\e3319046d61cffe0cc4c6e09ab5fb798\transformed\room-runtime-2.6.1\AndroidManifest.xml:27:13-37
+56
+57        <provider
+57-->[androidx.emoji2:emoji2:1.2.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\851846cdc7e26e9a814280cdb450a71a\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+58            android:name="androidx.startup.InitializationProvider"
+58-->[androidx.emoji2:emoji2:1.2.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\851846cdc7e26e9a814280cdb450a71a\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+59            android:authorities="com.shahin.androidflow.androidx-startup"
+59-->[androidx.emoji2:emoji2:1.2.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\851846cdc7e26e9a814280cdb450a71a\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+60            android:exported="false" >
+60-->[androidx.emoji2:emoji2:1.2.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\851846cdc7e26e9a814280cdb450a71a\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+61            <meta-data
+61-->[androidx.emoji2:emoji2:1.2.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\851846cdc7e26e9a814280cdb450a71a\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+62                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+62-->[androidx.emoji2:emoji2:1.2.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\851846cdc7e26e9a814280cdb450a71a\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+63                android:value="androidx.startup" />
+63-->[androidx.emoji2:emoji2:1.2.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\851846cdc7e26e9a814280cdb450a71a\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+64            <meta-data
+64-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\58bdb047f15d280f08722f29ec734615\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+65                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+65-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\58bdb047f15d280f08722f29ec734615\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+66                android:value="androidx.startup" />
+66-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\58bdb047f15d280f08722f29ec734615\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+67            <meta-data
+67-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+68                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+68-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+69                android:value="androidx.startup" />
+69-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+70        </provider>
+71
+72        <uses-library
+72-->[androidx.window:window:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\6d3311c50c6cd820a9a07fb5bbaefe1e\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+73            android:name="androidx.window.extensions"
+73-->[androidx.window:window:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\6d3311c50c6cd820a9a07fb5bbaefe1e\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+74            android:required="false" />
+74-->[androidx.window:window:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\6d3311c50c6cd820a9a07fb5bbaefe1e\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+75        <uses-library
+75-->[androidx.window:window:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\6d3311c50c6cd820a9a07fb5bbaefe1e\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+76            android:name="androidx.window.sidecar"
+76-->[androidx.window:window:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\6d3311c50c6cd820a9a07fb5bbaefe1e\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+77            android:required="false" />
+77-->[androidx.window:window:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\6d3311c50c6cd820a9a07fb5bbaefe1e\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+78
+79        <receiver
+79-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+80            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+80-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+81            android:directBootAware="false"
+81-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+82            android:enabled="true"
+82-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+83            android:exported="true"
+83-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+84            android:permission="android.permission.DUMP" >
+84-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+85            <intent-filter>
+85-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+86                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+86-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+86-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+87            </intent-filter>
+88            <intent-filter>
+88-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+89                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+89-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+89-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+90            </intent-filter>
+91            <intent-filter>
+91-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+92                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+92-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+92-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+93            </intent-filter>
+94            <intent-filter>
+94-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+95                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+95-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+95-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+96            </intent-filter>
+97        </receiver>
+98    </application>
+99
+100</manifest>
