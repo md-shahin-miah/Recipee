@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="actionBarBackgroundColor">@color/darker</color>
+    <color name="backgroundColor">@color/dark</color>
+    <color name="bottomNavBackground">@color/darker</color>
+    <color name="bottomNavCheckedItemColor">@color/colorAccent</color>
+    <color name="bottomNavItemColor">@color/mediumGray</color>
+    <color name="cardBackgroundColor">@color/darker</color>
+    <color name="cardBackgroundLightColor">#106200EA</color>
+    <color name="colorAccent">#9D46FF</color>
+    <color name="colorPrimary">#6200EA</color>
+    <color name="colorPrimaryDark">#5502C8</color>
+    <color name="contextualActionBarColor">@color/darker</color>
+    <color name="contextualStatusBarColor">@color/darker</color>
+    <color name="dark">#313C44</color>
+    <color name="darkGray">#4B4B4B</color>
+    <color name="darker">#151B20</color>
+    <color name="descriptionColor">@color/mediumGray</color>
+    <color name="green">#00C980</color>
+    <color name="lightGray">#F9F9F9</color>
+    <color name="lightMediumGray">#80D1D1D1</color>
+    <color name="mediumGray">#D1D1D1</color>
+    <color name="placeholderColor">@color/darker</color>
+    <color name="red">#FF4646</color>
+    <color name="statusBarColor">@color/darker</color>
+    <color name="strokeColor">@color/mediumGray</color>
+    <color name="titleColor">@color/mediumGray</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#FFC114</color>
+    <style name="AppTheme" parent="Theme.Material3.Dark.NoActionBar">
+            <item name="colorPrimary">@color/md_theme_dark_primary</item>
+            <item name="colorOnPrimary">@color/md_theme_dark_onPrimary</item>
+            <item name="colorPrimaryContainer">@color/md_theme_dark_primaryContainer</item>
+            <item name="colorOnPrimaryContainer">@color/md_theme_dark_onPrimaryContainer</item>
+            <item name="colorSecondary">@color/md_theme_dark_secondary</item>
+            <item name="colorOnSecondary">@color/md_theme_dark_onSecondary</item>
+            <item name="colorSecondaryContainer">@color/md_theme_dark_secondaryContainer</item>
+            <item name="colorOnSecondaryContainer">@color/md_theme_dark_onSecondaryContainer</item>
+            <item name="colorTertiary">@color/md_theme_dark_tertiary</item>
+            <item name="colorOnTertiary">@color/md_theme_dark_onTertiary</item>
+            <item name="colorTertiaryContainer">@color/md_theme_dark_tertiaryContainer</item>
+            <item name="colorOnTertiaryContainer">@color/md_theme_dark_onTertiaryContainer</item>
+            <item name="colorError">@color/md_theme_dark_error</item>
+            <item name="colorErrorContainer">@color/md_theme_dark_errorContainer</item>
+            <item name="colorOnError">@color/md_theme_dark_onError</item>
+            <item name="colorOnErrorContainer">@color/md_theme_dark_onErrorContainer</item>
+            <item name="android:colorBackground">@color/md_theme_dark_background</item>
+            <item name="colorOnBackground">@color/md_theme_dark_onBackground</item>
+            <item name="colorSurface">@color/md_theme_dark_surface</item>
+            <item name="colorOnSurface">@color/md_theme_dark_onSurface</item>
+            <item name="colorSurfaceVariant">@color/md_theme_dark_surfaceVariant</item>
+            <item name="colorOnSurfaceVariant">@color/md_theme_dark_onSurfaceVariant</item>
+            <item name="colorOutline">@color/md_theme_dark_outline</item>
+            <item name="colorOnSurfaceInverse">@color/md_theme_dark_inverseOnSurface</item>
+            <item name="colorSurfaceInverse">@color/md_theme_dark_inverseSurface</item>
+            <item name="colorPrimaryInverse">@color/md_theme_dark_inversePrimary</item>
+            <item name="bottomNavigationStyle">@style/CustomBottomNavigationViewStyle</item>
+
+        </style>
+    <style name="CustomActionBarStyle" parent="Widget.MaterialComponents.ActionBar.Primary">
+        <item name="background">@color/actionBarBackgroundColor</item>
+    </style>
+    <style name="CustomBottomNavigationViewStyle" parent="Widget.MaterialComponents.BottomNavigationView">
+        <item name="backgroundTint">@color/bottomNavBackground</item>
+        <item name="itemIconTint">@color/bottom_nav_view_item_color</item>
+        <item name="itemTextColor">@color/bottom_nav_view_item_color</item>
+    </style>
+</resources>

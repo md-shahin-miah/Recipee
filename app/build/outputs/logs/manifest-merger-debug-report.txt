@@ -1,0 +1,473 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:2:1-38:12
+MERGED from [androidx.databinding:databinding-adapters:7.4.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\89e7455a5d3b1fe99c2202d844f853d7\transformed\databinding-adapters-7.4.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:databinding-ktx:7.4.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\cb6f05fb1a0b5db04a61c1e68d67c061\transformed\jetified-databinding-ktx-7.4.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:databinding-runtime:8.0.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\b32681df778a6fa15e7447673e28602a\transformed\databinding-runtime-8.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:viewbinding:8.0.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\96032f6bc07276cf773379e2f94c24c1\transformed\jetified-viewbinding-8.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil:2.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\6838760821074ea8894f5c4ea110ae3c\transformed\jetified-coil-2.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.room:room-ktx:2.6.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\058ca1f172d95f13806aa45f13bd05fe\transformed\jetified-room-ktx-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\e3319046d61cffe0cc4c6e09ab5fb798\transformed\room-runtime-2.6.1\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.paging:paging-runtime:3.1.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\a7f39d0a800fe7730c35768c023be429\transformed\paging-runtime-3.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [io.coil-kt:coil-base:2.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\45c9bc6999184f926026d154e8900c95\transformed\jetified-coil-base-2.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.datastore:datastore-preferences:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\74b92c55679b49111393cbf078bdab23\transformed\jetified-datastore-preferences-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.datastore:datastore:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\5568933639feb18f738eb37ce2c47cb6\transformed\jetified-datastore-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\4c43f6f5e44bf2d7952b49a6e9174f68\transformed\navigation-ui-ktx-2.5.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.5.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\dd2d6db36f6ed7928b2156d8ea61f2cb\transformed\navigation-ui-2.5.2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.8.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\35363301a6a8c6cbea47dd82f6fe04b5\transformed\material-1.8.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\34c1eb74f6ebec7ae2af76b230081bda\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\30389ff03e76a80ff19099b0827c1c07\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\0207ed77d4d0a3667f49289405609572\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.4.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\6e5b21a8006141976511cf7e64186ba4\transformed\navigation-fragment-ktx-2.4.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.4.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\208d4f5e90ec9b4bfd0568c7ef756aeb\transformed\navigation-fragment-2.4.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.5.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\9cceadddef057e7fea8de7a0cacd6978\transformed\jetified-fragment-ktx-1.5.2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:hilt-android:2.44] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\7435bdd71669cdf1175dac566bccc9ed\transformed\jetified-hilt-android-2.44\AndroidManifest.xml:16:1-19:12
+MERGED from [com.github.bumptech.glide:glide:4.15.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\9cb8464d2d83915843718e4c3de08778\transformed\jetified-glide-4.15.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\867e927b21142c1696db9180a4163675\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\210a4c37bdefa45a3086a538ccc7d695\transformed\fragment-1.5.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\c3462793c4c0f62d17f7a363ee42802a\transformed\jetified-activity-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\b34d17e98e30b8d7d19c081d5c4d11d1\transformed\navigation-runtime-ktx-2.5.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.5.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\52dd9fd8188a891e8a8032a695b91be5\transformed\navigation-runtime-2.5.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.6.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\69a767f735d7c14e9ec44a93a66e90c7\transformed\jetified-activity-ktx-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\5f93154b16d815b80171f99b718be6b2\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\781ad6c5d3916f5ed3f2e1d37250430d\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\99cf606a070d83f9261f98da271efc13\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\2f5fdca9e4fb2fc6a15bf3395b7a6669\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\851846cdc7e26e9a814280cdb450a71a\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\ab6bb38b469d2c140c891fe2dcd0ba7b\transformed\navigation-common-ktx-2.5.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.5.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\06e1acf48c891eaf62597c89e14fe4d6\transformed\navigation-common-2.5.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\fb8ab7055924f9b08219315d23647dbb\transformed\jetified-lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\c9d909bc159da1d842e125edff2b801b\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.6.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\781f08a5793603af1718650debe283ce\transformed\jetified-lifecycle-service-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\1af320a4c049a3417ebffee0b723e15c\transformed\jetified-lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\58bdb047f15d280f08722f29ec734615\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\919c4ac15089881c311b728fcf39159c\transformed\jetified-lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\57c34b22edf2f4b79830baf9c1c60cb2\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\f55a097e7e2eb954633c2cf1542d9ee8\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\2c4b137f97e70d0d793b62e00dd5d06a\transformed\jetified-savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\b4a113359080d6c11672588d3e5826ab\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\888f7652a8c2c7f629a1554b0d696334\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\19239def730f870f38c2e273f4abd4e6\transformed\jetified-core-ktx-1.13.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\f0181addacd6cc7d43cb23896926afdc\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\b0719dd014d34d341487eb3c93aba2de\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\6fdf3762580c0976650c8779f761e8a8\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\3510f528c4207960b80a1ed5fb13e0df\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\607584213001351a181ff044d7639a6f\transformed\recyclerview-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\a483ed7e4c86c1ee4495da0352606b11\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\730f9cf93af1b392f96edc1e854b99fe\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\fa98cfb296a8101ca9bd5deea25806d0\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\2cc16839daceaca76fd190b7398902a0\transformed\transition-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\6d3311c50c6cd820a9a07fb5bbaefe1e\transformed\jetified-window-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.core:core:1.13.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\f9b7eccd308465f05ee72baabb7d5af1\transformed\core-1.13.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\7b5ac0df15e0d8417d2df9ad04a916bf\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.6.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\3ce75a40e42916e3746666256d251ff4\transformed\jetified-lifecycle-livedata-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.shimmer:shimmer:0.5.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\e3aa78f61f570b5c7f7cd765f6047d59\transformed\jetified-shimmer-0.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\4811804f3459696192ec0e552ed78c5a\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\5741941131574d5c071785fd4766fb38\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\14d4b2ecfab6944affe3e6b88a697409\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\39cbe458039a57c4b981191be197b234\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.4.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\b04536f4230a0b46e9374431fd39ffe5\transformed\sqlite-2.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\f738b98d3f9c53466f09e73ae1f11fa2\transformed\jetified-gifdecoder-4.15.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\5b57c06da4ec3e6d4866cc8690861843\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\32070fee4b143a915d58d6bb4c42783e\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\07cefb16eee94c94387171d7a4b7ac65\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8223a17cd2374313feb1470e534b2025\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\a8a2b19374e6f1890e67fe6cd0813155\transformed\exifinterface-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\88a2c1892868536a81f0aeebf9c4ff7d\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\b061e8101e05c48c6cbd22b48456c70f\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\dfd3b5387f7afd4ca920589d19e0fe45\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\a94b83d08052816bfd4a25fa9e71c5fc\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.44] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\50e6add6bed48ab3cdb502a5d5b96fdc\transformed\jetified-dagger-lint-aar-2.44\AndroidManifest.xml:16:1-19:12
+INJECTED from C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:2:1-38:12
+	package
+		INJECTED from C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:2:1-38:12
+		INJECTED from C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:2:1-38:12
+		INJECTED from C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:2:1-38:12
+		INJECTED from C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:6:22-64
+application
+ADDED from C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:8:5-36:19
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\e3319046d61cffe0cc4c6e09ab5fb798\transformed\room-runtime-2.6.1\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\e3319046d61cffe0cc4c6e09ab5fb798\transformed\room-runtime-2.6.1\AndroidManifest.xml:23:5-29:19
+MERGED from [com.google.android.material:material:1.8.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\35363301a6a8c6cbea47dd82f6fe04b5\transformed\material-1.8.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.8.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\35363301a6a8c6cbea47dd82f6fe04b5\transformed\material-1.8.0\AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\34c1eb74f6ebec7ae2af76b230081bda\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\34c1eb74f6ebec7ae2af76b230081bda\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.15.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\9cb8464d2d83915843718e4c3de08778\transformed\jetified-glide-4.15.1\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.15.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\9cb8464d2d83915843718e4c3de08778\transformed\jetified-glide-4.15.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\851846cdc7e26e9a814280cdb450a71a\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\851846cdc7e26e9a814280cdb450a71a\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\58bdb047f15d280f08722f29ec734615\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\58bdb047f15d280f08722f29ec734615\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\6d3311c50c6cd820a9a07fb5bbaefe1e\transformed\jetified-window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\6d3311c50c6cd820a9a07fb5bbaefe1e\transformed\jetified-window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.13.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\f9b7eccd308465f05ee72baabb7d5af1\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\f9b7eccd308465f05ee72baabb7d5af1\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\f738b98d3f9c53466f09e73ae1f11fa2\transformed\jetified-gifdecoder-4.15.1\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\f738b98d3f9c53466f09e73ae1f11fa2\transformed\jetified-gifdecoder-4.15.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\5b57c06da4ec3e6d4866cc8690861843\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\5b57c06da4ec3e6d4866cc8690861843\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8223a17cd2374313feb1470e534b2025\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8223a17cd2374313feb1470e534b2025\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\f9b7eccd308465f05ee72baabb7d5af1\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:14:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:12:9-54
+	tools:targetApi
+		ADDED from C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:17:9-29
+	android:icon
+		ADDED from C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:16:9-40
+	android:dataExtractionRules
+		ADDED from C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:11:9-65
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:9:9-41
+activity#com.shahin.androidflow.activites.DetailsActivity
+ADDED from C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:18:9-20:40
+	android:exported
+		ADDED from C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:20:13-37
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:19:13-54
+activity#com.shahin.androidflow.activites.MainActivity
+ADDED from C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:21:9-23:40
+	android:exported
+		ADDED from C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:23:13-37
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:22:13-51
+activity#com.shahin.androidflow.activites.FavoriteActivity
+ADDED from C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:24:9-26:40
+	android:exported
+		ADDED from C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:25:13-55
+activity#com.shahin.androidflow.activites.HomePage
+ADDED from C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:27:9-35:20
+	android:exported
+		ADDED from C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:29:13-36
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:28:13-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:30:13-34:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml:33:27-74
+uses-sdk
+INJECTED from C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:7.4.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\89e7455a5d3b1fe99c2202d844f853d7\transformed\databinding-adapters-7.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-adapters:7.4.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\89e7455a5d3b1fe99c2202d844f853d7\transformed\databinding-adapters-7.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-ktx:7.4.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\cb6f05fb1a0b5db04a61c1e68d67c061\transformed\jetified-databinding-ktx-7.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-ktx:7.4.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\cb6f05fb1a0b5db04a61c1e68d67c061\transformed\jetified-databinding-ktx-7.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-runtime:8.0.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\b32681df778a6fa15e7447673e28602a\transformed\databinding-runtime-8.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-runtime:8.0.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\b32681df778a6fa15e7447673e28602a\transformed\databinding-runtime-8.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.0.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\96032f6bc07276cf773379e2f94c24c1\transformed\jetified-viewbinding-8.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.0.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\96032f6bc07276cf773379e2f94c24c1\transformed\jetified-viewbinding-8.0.1\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil:2.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\6838760821074ea8894f5c4ea110ae3c\transformed\jetified-coil-2.3.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil:2.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\6838760821074ea8894f5c4ea110ae3c\transformed\jetified-coil-2.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.room:room-ktx:2.6.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\058ca1f172d95f13806aa45f13bd05fe\transformed\jetified-room-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-ktx:2.6.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\058ca1f172d95f13806aa45f13bd05fe\transformed\jetified-room-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\e3319046d61cffe0cc4c6e09ab5fb798\transformed\room-runtime-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\e3319046d61cffe0cc4c6e09ab5fb798\transformed\room-runtime-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.paging:paging-runtime:3.1.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\a7f39d0a800fe7730c35768c023be429\transformed\paging-runtime-3.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.paging:paging-runtime:3.1.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\a7f39d0a800fe7730c35768c023be429\transformed\paging-runtime-3.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [io.coil-kt:coil-base:2.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\45c9bc6999184f926026d154e8900c95\transformed\jetified-coil-base-2.3.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-base:2.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\45c9bc6999184f926026d154e8900c95\transformed\jetified-coil-base-2.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-preferences:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\74b92c55679b49111393cbf078bdab23\transformed\jetified-datastore-preferences-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore-preferences:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\74b92c55679b49111393cbf078bdab23\transformed\jetified-datastore-preferences-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\5568933639feb18f738eb37ce2c47cb6\transformed\jetified-datastore-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\5568933639feb18f738eb37ce2c47cb6\transformed\jetified-datastore-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\4c43f6f5e44bf2d7952b49a6e9174f68\transformed\navigation-ui-ktx-2.5.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\4c43f6f5e44bf2d7952b49a6e9174f68\transformed\navigation-ui-ktx-2.5.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.5.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\dd2d6db36f6ed7928b2156d8ea61f2cb\transformed\navigation-ui-2.5.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.5.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\dd2d6db36f6ed7928b2156d8ea61f2cb\transformed\navigation-ui-2.5.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.8.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\35363301a6a8c6cbea47dd82f6fe04b5\transformed\material-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.8.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\35363301a6a8c6cbea47dd82f6fe04b5\transformed\material-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\34c1eb74f6ebec7ae2af76b230081bda\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\34c1eb74f6ebec7ae2af76b230081bda\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\30389ff03e76a80ff19099b0827c1c07\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\30389ff03e76a80ff19099b0827c1c07\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\0207ed77d4d0a3667f49289405609572\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\0207ed77d4d0a3667f49289405609572\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.4.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\6e5b21a8006141976511cf7e64186ba4\transformed\navigation-fragment-ktx-2.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.4.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\6e5b21a8006141976511cf7e64186ba4\transformed\navigation-fragment-ktx-2.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.4.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\208d4f5e90ec9b4bfd0568c7ef756aeb\transformed\navigation-fragment-2.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.4.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\208d4f5e90ec9b4bfd0568c7ef756aeb\transformed\navigation-fragment-2.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\9cceadddef057e7fea8de7a0cacd6978\transformed\jetified-fragment-ktx-1.5.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\9cceadddef057e7fea8de7a0cacd6978\transformed\jetified-fragment-ktx-1.5.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:hilt-android:2.44] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\7435bdd71669cdf1175dac566bccc9ed\transformed\jetified-hilt-android-2.44\AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.44] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\7435bdd71669cdf1175dac566bccc9ed\transformed\jetified-hilt-android-2.44\AndroidManifest.xml:18:3-42
+MERGED from [com.github.bumptech.glide:glide:4.15.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\9cb8464d2d83915843718e4c3de08778\transformed\jetified-glide-4.15.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.15.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\9cb8464d2d83915843718e4c3de08778\transformed\jetified-glide-4.15.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\867e927b21142c1696db9180a4163675\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\867e927b21142c1696db9180a4163675\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\210a4c37bdefa45a3086a538ccc7d695\transformed\fragment-1.5.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\210a4c37bdefa45a3086a538ccc7d695\transformed\fragment-1.5.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\c3462793c4c0f62d17f7a363ee42802a\transformed\jetified-activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\c3462793c4c0f62d17f7a363ee42802a\transformed\jetified-activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\b34d17e98e30b8d7d19c081d5c4d11d1\transformed\navigation-runtime-ktx-2.5.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\b34d17e98e30b8d7d19c081d5c4d11d1\transformed\navigation-runtime-ktx-2.5.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\52dd9fd8188a891e8a8032a695b91be5\transformed\navigation-runtime-2.5.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\52dd9fd8188a891e8a8032a695b91be5\transformed\navigation-runtime-2.5.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.6.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\69a767f735d7c14e9ec44a93a66e90c7\transformed\jetified-activity-ktx-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.6.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\69a767f735d7c14e9ec44a93a66e90c7\transformed\jetified-activity-ktx-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\5f93154b16d815b80171f99b718be6b2\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\5f93154b16d815b80171f99b718be6b2\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\781ad6c5d3916f5ed3f2e1d37250430d\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\781ad6c5d3916f5ed3f2e1d37250430d\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\99cf606a070d83f9261f98da271efc13\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\99cf606a070d83f9261f98da271efc13\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\2f5fdca9e4fb2fc6a15bf3395b7a6669\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\2f5fdca9e4fb2fc6a15bf3395b7a6669\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\851846cdc7e26e9a814280cdb450a71a\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\851846cdc7e26e9a814280cdb450a71a\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\ab6bb38b469d2c140c891fe2dcd0ba7b\transformed\navigation-common-ktx-2.5.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\ab6bb38b469d2c140c891fe2dcd0ba7b\transformed\navigation-common-ktx-2.5.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\06e1acf48c891eaf62597c89e14fe4d6\transformed\navigation-common-2.5.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\06e1acf48c891eaf62597c89e14fe4d6\transformed\navigation-common-2.5.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\fb8ab7055924f9b08219315d23647dbb\transformed\jetified-lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\fb8ab7055924f9b08219315d23647dbb\transformed\jetified-lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\c9d909bc159da1d842e125edff2b801b\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\c9d909bc159da1d842e125edff2b801b\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.6.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\781f08a5793603af1718650debe283ce\transformed\jetified-lifecycle-service-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.6.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\781f08a5793603af1718650debe283ce\transformed\jetified-lifecycle-service-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\1af320a4c049a3417ebffee0b723e15c\transformed\jetified-lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\1af320a4c049a3417ebffee0b723e15c\transformed\jetified-lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\58bdb047f15d280f08722f29ec734615\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\58bdb047f15d280f08722f29ec734615\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\919c4ac15089881c311b728fcf39159c\transformed\jetified-lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\919c4ac15089881c311b728fcf39159c\transformed\jetified-lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\57c34b22edf2f4b79830baf9c1c60cb2\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\57c34b22edf2f4b79830baf9c1c60cb2\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\f55a097e7e2eb954633c2cf1542d9ee8\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\f55a097e7e2eb954633c2cf1542d9ee8\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\2c4b137f97e70d0d793b62e00dd5d06a\transformed\jetified-savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\2c4b137f97e70d0d793b62e00dd5d06a\transformed\jetified-savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\b4a113359080d6c11672588d3e5826ab\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\b4a113359080d6c11672588d3e5826ab\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\888f7652a8c2c7f629a1554b0d696334\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\888f7652a8c2c7f629a1554b0d696334\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\19239def730f870f38c2e273f4abd4e6\transformed\jetified-core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\19239def730f870f38c2e273f4abd4e6\transformed\jetified-core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\f0181addacd6cc7d43cb23896926afdc\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\f0181addacd6cc7d43cb23896926afdc\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\b0719dd014d34d341487eb3c93aba2de\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\b0719dd014d34d341487eb3c93aba2de\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\6fdf3762580c0976650c8779f761e8a8\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\6fdf3762580c0976650c8779f761e8a8\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\3510f528c4207960b80a1ed5fb13e0df\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\3510f528c4207960b80a1ed5fb13e0df\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\607584213001351a181ff044d7639a6f\transformed\recyclerview-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\607584213001351a181ff044d7639a6f\transformed\recyclerview-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\a483ed7e4c86c1ee4495da0352606b11\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\a483ed7e4c86c1ee4495da0352606b11\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\730f9cf93af1b392f96edc1e854b99fe\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\730f9cf93af1b392f96edc1e854b99fe\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\fa98cfb296a8101ca9bd5deea25806d0\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\fa98cfb296a8101ca9bd5deea25806d0\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\2cc16839daceaca76fd190b7398902a0\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\2cc16839daceaca76fd190b7398902a0\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\6d3311c50c6cd820a9a07fb5bbaefe1e\transformed\jetified-window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\6d3311c50c6cd820a9a07fb5bbaefe1e\transformed\jetified-window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.13.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\f9b7eccd308465f05ee72baabb7d5af1\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\f9b7eccd308465f05ee72baabb7d5af1\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\7b5ac0df15e0d8417d2df9ad04a916bf\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\7b5ac0df15e0d8417d2df9ad04a916bf\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.6.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\3ce75a40e42916e3746666256d251ff4\transformed\jetified-lifecycle-livedata-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.6.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\3ce75a40e42916e3746666256d251ff4\transformed\jetified-lifecycle-livedata-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.shimmer:shimmer:0.5.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\e3aa78f61f570b5c7f7cd765f6047d59\transformed\jetified-shimmer-0.5.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.shimmer:shimmer:0.5.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\e3aa78f61f570b5c7f7cd765f6047d59\transformed\jetified-shimmer-0.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\4811804f3459696192ec0e552ed78c5a\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\4811804f3459696192ec0e552ed78c5a\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\5741941131574d5c071785fd4766fb38\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\5741941131574d5c071785fd4766fb38\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\14d4b2ecfab6944affe3e6b88a697409\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\14d4b2ecfab6944affe3e6b88a697409\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\39cbe458039a57c4b981191be197b234\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\39cbe458039a57c4b981191be197b234\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\b04536f4230a0b46e9374431fd39ffe5\transformed\sqlite-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\b04536f4230a0b46e9374431fd39ffe5\transformed\sqlite-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\f738b98d3f9c53466f09e73ae1f11fa2\transformed\jetified-gifdecoder-4.15.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\f738b98d3f9c53466f09e73ae1f11fa2\transformed\jetified-gifdecoder-4.15.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\5b57c06da4ec3e6d4866cc8690861843\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\5b57c06da4ec3e6d4866cc8690861843\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\32070fee4b143a915d58d6bb4c42783e\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\32070fee4b143a915d58d6bb4c42783e\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\07cefb16eee94c94387171d7a4b7ac65\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\07cefb16eee94c94387171d7a4b7ac65\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8223a17cd2374313feb1470e534b2025\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8223a17cd2374313feb1470e534b2025\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\a8a2b19374e6f1890e67fe6cd0813155\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\a8a2b19374e6f1890e67fe6cd0813155\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\88a2c1892868536a81f0aeebf9c4ff7d\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\88a2c1892868536a81f0aeebf9c4ff7d\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\b061e8101e05c48c6cbd22b48456c70f\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\b061e8101e05c48c6cbd22b48456c70f\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\dfd3b5387f7afd4ca920589d19e0fe45\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\dfd3b5387f7afd4ca920589d19e0fe45\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\a94b83d08052816bfd4a25fa9e71c5fc\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\a94b83d08052816bfd4a25fa9e71c5fc\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.dagger:dagger-lint-aar:2.44] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\50e6add6bed48ab3cdb502a5d5b96fdc\transformed\jetified-dagger-lint-aar-2.44\AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.44] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\50e6add6bed48ab3cdb502a5d5b96fdc\transformed\jetified-dagger-lint-aar-2.44\AndroidManifest.xml:18:3-42
+INJECTED from C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User\AndroidStudioProjects\Recipee\app\src\main\AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\e3319046d61cffe0cc4c6e09ab5fb798\transformed\room-runtime-2.6.1\AndroidManifest.xml:24:9-28:63
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\e3319046d61cffe0cc4c6e09ab5fb798\transformed\room-runtime-2.6.1\AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\e3319046d61cffe0cc4c6e09ab5fb798\transformed\room-runtime-2.6.1\AndroidManifest.xml:28:13-60
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\e3319046d61cffe0cc4c6e09ab5fb798\transformed\room-runtime-2.6.1\AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\e3319046d61cffe0cc4c6e09ab5fb798\transformed\room-runtime-2.6.1\AndroidManifest.xml:25:13-74
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\851846cdc7e26e9a814280cdb450a71a\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\58bdb047f15d280f08722f29ec734615\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\58bdb047f15d280f08722f29ec734615\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\5b57c06da4ec3e6d4866cc8690861843\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\5b57c06da4ec3e6d4866cc8690861843\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\851846cdc7e26e9a814280cdb450a71a\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\851846cdc7e26e9a814280cdb450a71a\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\851846cdc7e26e9a814280cdb450a71a\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\851846cdc7e26e9a814280cdb450a71a\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\851846cdc7e26e9a814280cdb450a71a\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\851846cdc7e26e9a814280cdb450a71a\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\851846cdc7e26e9a814280cdb450a71a\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\58bdb047f15d280f08722f29ec734615\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\58bdb047f15d280f08722f29ec734615\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\58bdb047f15d280f08722f29ec734615\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\6d3311c50c6cd820a9a07fb5bbaefe1e\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\6d3311c50c6cd820a9a07fb5bbaefe1e\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\6d3311c50c6cd820a9a07fb5bbaefe1e\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\6d3311c50c6cd820a9a07fb5bbaefe1e\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\6d3311c50c6cd820a9a07fb5bbaefe1e\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\6d3311c50c6cd820a9a07fb5bbaefe1e\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\f9b7eccd308465f05ee72baabb7d5af1\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\f9b7eccd308465f05ee72baabb7d5af1\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\f9b7eccd308465f05ee72baabb7d5af1\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+permission#com.shahin.androidflow.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\f9b7eccd308465f05ee72baabb7d5af1\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\f9b7eccd308465f05ee72baabb7d5af1\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\f9b7eccd308465f05ee72baabb7d5af1\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\f9b7eccd308465f05ee72baabb7d5af1\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\f9b7eccd308465f05ee72baabb7d5af1\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+uses-permission#com.shahin.androidflow.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\f9b7eccd308465f05ee72baabb7d5af1\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\f9b7eccd308465f05ee72baabb7d5af1\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\User\AndroidStudioProjects\robo-course-free\caches\transforms-3\8c4eede8efdde559087b1f3f89e439cd\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:25-92

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.shahin.androidflow.app-mergeDebugResources-4:/layout/activity_details.xml",
+        "source": "com.shahin.androidflow.app-main-7:/layout/activity_details.xml"
+    },
+    {
+        "merged": "com.shahin.androidflow.app-mergeDebugResources-4:/layout/fragment_recipes.xml",
+        "source": "com.shahin.androidflow.app-main-7:/layout/fragment_recipes.xml"
+    },
+    {
+        "merged": "com.shahin.androidflow.app-mergeDebugResources-4:/layout/favorite_recipe_row_layout.xml",
+        "source": "com.shahin.androidflow.app-main-7:/layout/favorite_recipe_row_layout.xml"
+    },
+    {
+        "merged": "com.shahin.androidflow.app-mergeDebugResources-4:/layout/fragment_favorite_recipes.xml",
+        "source": "com.shahin.androidflow.app-main-7:/layout/fragment_favorite_recipes.xml"
+    },
+    {
+        "merged": "com.shahin.androidflow.app-mergeDebugResources-4:/layout/recipes_row_layout.xml",
+        "source": "com.shahin.androidflow.app-main-7:/layout/recipes_row_layout.xml"
+    },
+    {
+        "merged": "com.shahin.androidflow.app-mergeDebugResources-4:/layout/placeholder_row_layout.xml",
+        "source": "com.shahin.androidflow.app-main-7:/layout/placeholder_row_layout.xml"
+    },
+    {
+        "merged": "com.shahin.androidflow.app-mergeDebugResources-4:/layout/activity_home_page.xml",
+        "source": "com.shahin.androidflow.app-main-7:/layout/activity_home_page.xml"
+    },
+    {
+        "merged": "com.shahin.androidflow.app-mergeDebugResources-4:/layout/activity_favorite.xml",
+        "source": "com.shahin.androidflow.app-main-7:/layout/activity_favorite.xml"
+    },
+    {
+        "merged": "com.shahin.androidflow.app-mergeDebugResources-4:/layout/load_state_view.xml",
+        "source": "com.shahin.androidflow.app-main-7:/layout/load_state_view.xml"
+    },
+    {
+        "merged": "com.shahin.androidflow.app-mergeDebugResources-4:/layout/activity_main.xml",
+        "source": "com.shahin.androidflow.app-main-7:/layout/activity_main.xml"
+    }
+]
